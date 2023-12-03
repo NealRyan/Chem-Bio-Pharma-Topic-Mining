@@ -3,6 +3,8 @@
 # Group:
 Neal Ryan
 
+# [Progress Report](https://github.com/NealRyan/Scientific-Topic-Mining/blob/main/Data%20prep.ipynb)
+
 # Scientific_LDA_Model.ipynb 
 This notebook contains the original LDA model. All the cells can be run (~5 mins) to investigate the final topics using the LDA vis result.
 
