@@ -5,6 +5,9 @@ Neal Ryan
 
 # [Progress Report](https://github.com/NealRyan/Scientific-Topic-Mining/blob/main/Data%20prep.ipynb)
 
+# Project Overview
+I started with LDA, but determined this model would take signficantly more work than time allowed to achieve the goal of new scientific topic analysis. Thus, a pivot was made to using an LLM for this purpose. To review the project, you really only need to run Run_Finetuned_Model.ipynb, though you can run the LDA model to overserve the topics generated, or look through the finetuning notebook to see how I trained the model.
+
 # [Scientific_LDA_Model.ipynb](https://github.com/NealRyan/Scientific-Topic-Mining/blob/main/Scientific_LDA_Model.ipynb) 
 This notebook contains the original LDA model. All the cells can be run (~5 mins) to investigate the final topics using the LDA vis result.
 
